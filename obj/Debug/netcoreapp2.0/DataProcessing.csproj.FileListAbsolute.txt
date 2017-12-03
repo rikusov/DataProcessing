@@ -1,0 +1,11 @@
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\bin\Debug\netcoreapp2.0\DataProcessing.deps.json
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\bin\Debug\netcoreapp2.0\DataProcessing.runtimeconfig.json
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\bin\Debug\netcoreapp2.0\DataProcessing.runtimeconfig.dev.json
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\bin\Debug\netcoreapp2.0\DataProcessing.dll
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\obj\Debug\netcoreapp2.0\DataProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\obj\Debug\netcoreapp2.0\DataProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\obj\Debug\netcoreapp2.0\DataProcessing.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\obj\Debug\netcoreapp2.0\DataProcessing.AssemblyInfo.cs
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\bin\Debug\netcoreapp2.0\DataProcessing.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\obj\Debug\netcoreapp2.0\DataProcessing.dll
+C:\Users\Alexandr\Documents\Visual Studio 2017\Projects\DataProcessing\obj\Debug\netcoreapp2.0\DataProcessing.pdb
