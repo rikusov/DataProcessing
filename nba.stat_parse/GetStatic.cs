@@ -284,5 +284,10 @@ namespace ParseStatic
             ChromeService.Dispose();
             _answ?.Invoke(output.ToArray(),id_queue);
         }
+
+       /* public static string[] GetStaticinData(DateTime dt, Progress progress=null)//получение всех показателей всех матчей в определеную дату
+        {
+
+        }*/
     }
 }

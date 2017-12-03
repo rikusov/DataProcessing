@@ -3641,11 +3641,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexandr\\Documents\\Visual Studio 2017\\Projects\\DataProcessing\\DataProcessing.csproj",
+      "projectUniqueName": "C:\\Users\\Alexandr\\Documents\\GitHub\\DataProcessing\\DataProcessing.csproj",
       "projectName": "DataProcessing",
-      "projectPath": "C:\\Users\\Alexandr\\Documents\\Visual Studio 2017\\Projects\\DataProcessing\\DataProcessing.csproj",
+      "projectPath": "C:\\Users\\Alexandr\\Documents\\GitHub\\DataProcessing\\DataProcessing.csproj",
       "packagesPath": "C:\\Users\\Alexandr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexandr\\Documents\\Visual Studio 2017\\Projects\\DataProcessing\\obj\\",
+      "outputPath": "C:\\Users\\Alexandr\\Documents\\GitHub\\DataProcessing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
